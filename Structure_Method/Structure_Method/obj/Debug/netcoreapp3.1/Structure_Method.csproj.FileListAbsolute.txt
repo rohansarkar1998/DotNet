@@ -1,0 +1,13 @@
+D:\dotnet\Structure_Method\Structure_Method\bin\Debug\netcoreapp3.1\Structure_Method.exe
+D:\dotnet\Structure_Method\Structure_Method\bin\Debug\netcoreapp3.1\Structure_Method.deps.json
+D:\dotnet\Structure_Method\Structure_Method\bin\Debug\netcoreapp3.1\Structure_Method.runtimeconfig.json
+D:\dotnet\Structure_Method\Structure_Method\bin\Debug\netcoreapp3.1\Structure_Method.runtimeconfig.dev.json
+D:\dotnet\Structure_Method\Structure_Method\bin\Debug\netcoreapp3.1\Structure_Method.dll
+D:\dotnet\Structure_Method\Structure_Method\bin\Debug\netcoreapp3.1\Structure_Method.pdb
+D:\dotnet\Structure_Method\Structure_Method\obj\Debug\netcoreapp3.1\Structure_Method.csprojAssemblyReference.cache
+D:\dotnet\Structure_Method\Structure_Method\obj\Debug\netcoreapp3.1\Structure_Method.AssemblyInfoInputs.cache
+D:\dotnet\Structure_Method\Structure_Method\obj\Debug\netcoreapp3.1\Structure_Method.AssemblyInfo.cs
+D:\dotnet\Structure_Method\Structure_Method\obj\Debug\netcoreapp3.1\Structure_Method.csproj.CoreCompileInputs.cache
+D:\dotnet\Structure_Method\Structure_Method\obj\Debug\netcoreapp3.1\Structure_Method.dll
+D:\dotnet\Structure_Method\Structure_Method\obj\Debug\netcoreapp3.1\Structure_Method.pdb
+D:\dotnet\Structure_Method\Structure_Method\obj\Debug\netcoreapp3.1\Structure_Method.genruntimeconfig.cache

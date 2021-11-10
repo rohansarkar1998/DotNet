@@ -1,0 +1,13 @@
+D:\dotnet\Static_Demo\Static_Demo\bin\Debug\netcoreapp3.1\Static_Demo.exe
+D:\dotnet\Static_Demo\Static_Demo\bin\Debug\netcoreapp3.1\Static_Demo.deps.json
+D:\dotnet\Static_Demo\Static_Demo\bin\Debug\netcoreapp3.1\Static_Demo.runtimeconfig.json
+D:\dotnet\Static_Demo\Static_Demo\bin\Debug\netcoreapp3.1\Static_Demo.runtimeconfig.dev.json
+D:\dotnet\Static_Demo\Static_Demo\bin\Debug\netcoreapp3.1\Static_Demo.dll
+D:\dotnet\Static_Demo\Static_Demo\bin\Debug\netcoreapp3.1\Static_Demo.pdb
+D:\dotnet\Static_Demo\Static_Demo\obj\Debug\netcoreapp3.1\Static_Demo.csprojAssemblyReference.cache
+D:\dotnet\Static_Demo\Static_Demo\obj\Debug\netcoreapp3.1\Static_Demo.AssemblyInfoInputs.cache
+D:\dotnet\Static_Demo\Static_Demo\obj\Debug\netcoreapp3.1\Static_Demo.AssemblyInfo.cs
+D:\dotnet\Static_Demo\Static_Demo\obj\Debug\netcoreapp3.1\Static_Demo.csproj.CoreCompileInputs.cache
+D:\dotnet\Static_Demo\Static_Demo\obj\Debug\netcoreapp3.1\Static_Demo.dll
+D:\dotnet\Static_Demo\Static_Demo\obj\Debug\netcoreapp3.1\Static_Demo.pdb
+D:\dotnet\Static_Demo\Static_Demo\obj\Debug\netcoreapp3.1\Static_Demo.genruntimeconfig.cache

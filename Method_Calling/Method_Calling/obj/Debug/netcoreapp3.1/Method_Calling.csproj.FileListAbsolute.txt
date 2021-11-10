@@ -1,0 +1,13 @@
+D:\dotnet\Method_Calling\Method_Calling\bin\Debug\netcoreapp3.1\Method_Calling.exe
+D:\dotnet\Method_Calling\Method_Calling\bin\Debug\netcoreapp3.1\Method_Calling.deps.json
+D:\dotnet\Method_Calling\Method_Calling\bin\Debug\netcoreapp3.1\Method_Calling.runtimeconfig.json
+D:\dotnet\Method_Calling\Method_Calling\bin\Debug\netcoreapp3.1\Method_Calling.runtimeconfig.dev.json
+D:\dotnet\Method_Calling\Method_Calling\bin\Debug\netcoreapp3.1\Method_Calling.dll
+D:\dotnet\Method_Calling\Method_Calling\bin\Debug\netcoreapp3.1\Method_Calling.pdb
+D:\dotnet\Method_Calling\Method_Calling\obj\Debug\netcoreapp3.1\Method_Calling.csprojAssemblyReference.cache
+D:\dotnet\Method_Calling\Method_Calling\obj\Debug\netcoreapp3.1\Method_Calling.AssemblyInfoInputs.cache
+D:\dotnet\Method_Calling\Method_Calling\obj\Debug\netcoreapp3.1\Method_Calling.AssemblyInfo.cs
+D:\dotnet\Method_Calling\Method_Calling\obj\Debug\netcoreapp3.1\Method_Calling.csproj.CoreCompileInputs.cache
+D:\dotnet\Method_Calling\Method_Calling\obj\Debug\netcoreapp3.1\Method_Calling.dll
+D:\dotnet\Method_Calling\Method_Calling\obj\Debug\netcoreapp3.1\Method_Calling.pdb
+D:\dotnet\Method_Calling\Method_Calling\obj\Debug\netcoreapp3.1\Method_Calling.genruntimeconfig.cache

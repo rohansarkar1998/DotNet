@@ -1,0 +1,13 @@
+D:\dotnet\ShopingCart\ShopingCart\bin\Debug\netcoreapp3.1\ShopingCart.exe
+D:\dotnet\ShopingCart\ShopingCart\bin\Debug\netcoreapp3.1\ShopingCart.deps.json
+D:\dotnet\ShopingCart\ShopingCart\bin\Debug\netcoreapp3.1\ShopingCart.runtimeconfig.json
+D:\dotnet\ShopingCart\ShopingCart\bin\Debug\netcoreapp3.1\ShopingCart.runtimeconfig.dev.json
+D:\dotnet\ShopingCart\ShopingCart\bin\Debug\netcoreapp3.1\ShopingCart.dll
+D:\dotnet\ShopingCart\ShopingCart\bin\Debug\netcoreapp3.1\ShopingCart.pdb
+D:\dotnet\ShopingCart\ShopingCart\obj\Debug\netcoreapp3.1\ShopingCart.csprojAssemblyReference.cache
+D:\dotnet\ShopingCart\ShopingCart\obj\Debug\netcoreapp3.1\ShopingCart.AssemblyInfoInputs.cache
+D:\dotnet\ShopingCart\ShopingCart\obj\Debug\netcoreapp3.1\ShopingCart.AssemblyInfo.cs
+D:\dotnet\ShopingCart\ShopingCart\obj\Debug\netcoreapp3.1\ShopingCart.csproj.CoreCompileInputs.cache
+D:\dotnet\ShopingCart\ShopingCart\obj\Debug\netcoreapp3.1\ShopingCart.dll
+D:\dotnet\ShopingCart\ShopingCart\obj\Debug\netcoreapp3.1\ShopingCart.pdb
+D:\dotnet\ShopingCart\ShopingCart\obj\Debug\netcoreapp3.1\ShopingCart.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\dotnet\PartialClassDemo\PartialClassDemo\bin\Debug\netcoreapp3.1\PartialClassDemo.exe
+D:\dotnet\PartialClassDemo\PartialClassDemo\bin\Debug\netcoreapp3.1\PartialClassDemo.deps.json
+D:\dotnet\PartialClassDemo\PartialClassDemo\bin\Debug\netcoreapp3.1\PartialClassDemo.runtimeconfig.json
+D:\dotnet\PartialClassDemo\PartialClassDemo\bin\Debug\netcoreapp3.1\PartialClassDemo.runtimeconfig.dev.json
+D:\dotnet\PartialClassDemo\PartialClassDemo\bin\Debug\netcoreapp3.1\PartialClassDemo.dll
+D:\dotnet\PartialClassDemo\PartialClassDemo\bin\Debug\netcoreapp3.1\PartialClassDemo.pdb
+D:\dotnet\PartialClassDemo\PartialClassDemo\obj\Debug\netcoreapp3.1\PartialClassDemo.AssemblyInfoInputs.cache
+D:\dotnet\PartialClassDemo\PartialClassDemo\obj\Debug\netcoreapp3.1\PartialClassDemo.AssemblyInfo.cs
+D:\dotnet\PartialClassDemo\PartialClassDemo\obj\Debug\netcoreapp3.1\PartialClassDemo.csproj.CoreCompileInputs.cache
+D:\dotnet\PartialClassDemo\PartialClassDemo\obj\Debug\netcoreapp3.1\PartialClassDemo.dll
+D:\dotnet\PartialClassDemo\PartialClassDemo\obj\Debug\netcoreapp3.1\PartialClassDemo.pdb
+D:\dotnet\PartialClassDemo\PartialClassDemo\obj\Debug\netcoreapp3.1\PartialClassDemo.genruntimeconfig.cache
